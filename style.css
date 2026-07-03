@@ -705,6 +705,14 @@ ul {
     aspect-ratio: 21/9;
 }
 
+.work-card-portrait .work-image {
+    aspect-ratio: 9/16;
+}
+
+.work-card-portrait .work-video video {
+    aspect-ratio: 9/16;
+}
+
 .work-video {
     border-radius: 16px;
     overflow: hidden;
